@@ -7,3 +7,5 @@
 - 📫 How to reach me: muratcezan@gmail.com
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: My best friend is Benjamin Franklin (:
+
+<img src="https://github-readme-stats.vercel.app/api?username=muratcezan&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
